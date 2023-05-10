@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/we-care-client-side/static/css/main.ce6aba0b.css",
+    "main.js": "/we-care-client-side/static/js/main.b48a2077.js",
+    "static/media/hero.jpg": "/we-care-client-side/static/media/hero.b9aa924facbc6a9b5176.jpg",
+    "static/media/patient.jpg": "/we-care-client-side/static/media/patient.b9aa924facbc6a9b5176.jpg",
+    "static/media/errorPage.svg": "/we-care-client-side/static/media/errorPage.56ab9e1c4b6c97dfe5049c56ddf61d91.svg",
+    "static/media/pattern (2).svg": "/we-care-client-side/static/media/pattern (2).c2a2c3c7aeed91365724.svg",
+    "index.html": "/we-care-client-side/index.html",
+    "static/media/getFetch.cjs": "/we-care-client-side/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.ce6aba0b.css.map": "/we-care-client-side/static/css/main.ce6aba0b.css.map",
+    "main.b48a2077.js.map": "/we-care-client-side/static/js/main.b48a2077.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce6aba0b.css",
+    "static/js/main.b48a2077.js"
+  ]
+}
